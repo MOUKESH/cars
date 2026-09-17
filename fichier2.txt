@@ -1,2 +1,4 @@
 Ligne 1 de configuration
 // TODO: ajouter la gestion des erreurs
+When faith nay fail and fear surround me 
+you never fail and you won't start now
