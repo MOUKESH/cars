@@ -7,6 +7,6 @@ int main(){
     int nombre;
     std::cin >> nombre;// En cours de travail
     r= nombre*nombre;
-    std::cout << "Le carré de " << nombre << " est: " << r << std::endl;
+    std::cout << "Le carré de " << nombre << " est: " << r << std::endl;//affiche le résultat
     return 0;
 }
